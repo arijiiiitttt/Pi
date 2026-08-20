@@ -13,4 +13,4 @@
 </p>
 
 
-> **New to coding tools?** Don't worry this guide explains everything step by step, with no skipped steps.
+> **New to Pi?** Don't worry this guide explains everything step by step, with no skipped steps.
