@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+   "scripts": {
+    "start": "bun index.ts",
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "nodemon": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
